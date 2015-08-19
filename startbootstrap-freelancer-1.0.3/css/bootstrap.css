@@ -10,6 +10,7 @@
 
 .row {
   background-image: url(mac_background.jpg);
+  float: left;
 }
 
 
